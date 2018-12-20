@@ -1,0 +1,24 @@
+doctype html
+html(lang='en', dir='ltr')
+  head
+    meta(charset='utf-8')
+    title
+    link(rel='stylesheet', href='/stylesheets/style.css')
+  body
+    .login-box
+      h1 Register
+      .textbox
+        i.fas.fa-user
+        input(type='text', placeholder='Username')
+      .textbox
+        i.fas.fa-mail-bulk
+        input(type='text', placeholder='Email')
+      .textbox
+        i.fas.fa-lock
+        input(type='password', placeholder='Password')
+      .textbox
+        i.fas.fa-user-lock
+        input(type='password', placeholder='Confirm Password')
+      input.btn(type='button', value='Register')
+      a(href='/games/login')
+        input.btn(type='button', value='Already have a account')
