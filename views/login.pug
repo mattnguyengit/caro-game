@@ -1,18 +1,36 @@
 doctype html
-html(lang='en', dir='ltr')
+html(lang='en' ng-app='sign-in')
   head
-    meta(charset='utf-8')
-    title
-    link(rel='stylesheet', href='/stylesheets/style.css')
+    meta(charset='UTF-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1.0')
+    meta(http-equiv='X-UA-Compatible', content='ie=edge')
+    title Login
+    link(rel='stylesheet', href='/stylesheets/main.css')
   body
-    .login-box
-      h1 Login
-      .textbox
-        i.fas.fa-user
-        input(type='text', placeholder='Username')
-      .textbox
-        i.fas.fa-lock
-        input(type='password', placeholder='Password')
-      input.btn(type='button', value='Sign in')
-      a(href='/games/register')
-        input.btn(type='button', value='Register now')
+    .grid
+      .bg
+        .bg-img
+      .login-form
+        form(action='')
+          .form-title
+            div
+              img.logo(src='/images/logo.svg', alt='')
+            div
+              p Sign in
+          .userBox
+            input(type='text', placeholder='username or email')
+          .psdBox
+            input(type='password', placeholder='password')
+          .login-issues
+            .check-login
+              input(type='checkbox')
+            .forget-psd
+              a(href='#') Forgot password!
+          .login-btn
+            input(type='submit', value='Login Game')
+          .register-btn
+            a(href='/games/signup')
+              input(type='button', value='Sign up')
+          .social
+            img(src='/images/google.svg', alt='')
+            img(src='/images/facebook.svg', alt='')
