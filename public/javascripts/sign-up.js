@@ -2,7 +2,7 @@
   const app = angular.module('sign-up', []);
   
   app.controller('SignUpController', ['$http', '$window', function($http, $window) {
-    let obj = {}
+    let obj = {};
     this.noti = '';
     this.formData = {};
 
@@ -21,14 +21,12 @@
       $http.post('/users', obj)
         .then((res) => {
           this.formData = {}
-          $window.location.href = '/games/login';
+          $window.location.href = '/games/signin';
         }, (res) => {
           this.noti = res.data || 'Request failed';
           this.formData.psd = '';
           this.formData.cfmPsd = '';
         }); 
-
     }
-
   }]) 
 })();

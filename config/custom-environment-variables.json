@@ -1,3 +1,4 @@
 {
-  "jwtPrivateKey": "carogame_jwtPrivateKey"
+  "jwtPrivateKey": "carogame_jwtPrivateKey",
+  "session": "carogame_sessionKey"
 }
