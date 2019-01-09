@@ -7,7 +7,6 @@ html, body {
   background-position: left;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100%;
 }
 
 html a, body a {
@@ -15,7 +14,8 @@ html a, body a {
 }
 
 .grid {
-  height: 100%;
+  margin: 0 auto;
+  height: calc(100vw / (16 / 9));
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: (1fr)[12];
@@ -54,8 +54,8 @@ html a, body a {
 }
 
 .grid .span-left .social {
-  margin-top: 10%;
-  height: 80%;
+  margin-top: 9.8%;
+  height: calc(100vw / 2.22);
 }
 
 .grid .span-left .social .sidebar {
@@ -65,21 +65,23 @@ html a, body a {
 }
 
 .grid .span-left .social .sidebar .titleSidebar {
-  text-align: center;
-  height: 5vh;
+  height: 6%;
   background: #e9e9e9;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 90% 10%;
+      grid-template-columns: 90% 10%;
 }
 
 .grid .span-left .social .sidebar .titleSidebar h2 {
-  display: inline;
-  font-size: 2vw;
-  margin: 0;
+  text-align: center;
+  font-size: 1.5vw;
+  margin: 2%;
 }
 
 .grid .span-left .social .sidebar .titleSidebar img {
   margin: 0.5vh;
-  float: right;
-  width: 3vh;
+  width: 80%;
   cursor: pointer;
 }
 
@@ -87,7 +89,7 @@ html a, body a {
   overflow-y: auto;
   overflow-x: hidden;
   background-color: rgba(235, 235, 235, 0.699);
-  height: 70vh;
+  height: 88.8%;
 }
 
 .grid .span-left .social .sidebar .messages p {
@@ -95,23 +97,29 @@ html a, body a {
 }
 
 .grid .span-left .social .sidebar .messagesInput {
-  outline: none;
+  height: 6%;
+  width: 100%;
+  background-color: rgba(180, 180, 180, 0.733);
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 80% 20%;
+      grid-template-columns: 80% 20%;
 }
 
 .grid .span-left .social .sidebar .messagesInput .messageType {
-  width: 80%;
   font-size: 1.5vw;
-  padding: 0.2vw;
+  padding: 0;
+  padding-left: 5%;
   border: none;
   outline: none;
-  background-color: rgba(209, 209, 209, 0.733);
+  background: none;
 }
 
 .grid .span-left .social .sidebar .messagesInput .messageSend {
   font-family: 'Montserrat';
   font-weight: 700;
-  width: 18%;
-  font-size: 1.4vw;
+  font-size: 1.2vw;
+  padding: 0;
   background-color: rgba(149, 164, 255, 0.733);
   border: none;
   cursor: pointer;
@@ -130,8 +138,135 @@ html a, body a {
   grid-column: span 9 / auto;
   width: 100%;
   background: url(../images/game-board.png);
-  background-position: left;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.grid .span-right .gameBoard {
+  margin: 10% 3%;
+  height: 72%;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[12];
+      grid-template-columns: repeat(12, 1fr);
+}
+
+.grid .span-right .gameBoard host-zone {
+  grid-column: span 4 / auto;
+}
+
+.grid .span-right .gameBoard host-zone .hostBtn {
+  width: 50%;
+  margin: 30% auto 0%;
+  cursor: pointer;
+}
+
+.grid .span-right .gameBoard host-zone .hostBtn h2 {
+  position: absolute;
+  margin: 0.8% 3.4%;
+  font-size: 2vw;
+}
+
+.grid .span-right .gameBoard host-zone .hostBtn img {
+  width: 100%;
+}
+
+.grid .span-right .gameBoard host-zone .hostRoom {
+  width: 80%;
+  margin: 50% auto;
+  text-align: center;
+}
+
+.grid .span-right .gameBoard host-zone .hostRoom h6 {
+  font-size: 1vw;
+  margin: 0;
+}
+
+.grid .span-right .gameBoard host-zone .hostRoom .board {
+  width: 60%;
+}
+
+.grid .span-right .gameBoard host-zone .hostRoom .board img {
+  width: 100%;
+}
+
+.grid .span-right .gameBoard host-zone .hostRoom .leaveBtn {
+  margin: -7% auto;
+  width: 65%;
+  cursor: pointer;
+}
+
+.grid .span-right .gameBoard host-zone .hostRoom .leaveBtn h2 {
+  position: absolute;
+  font-size: 1.5vw;
+  padding: 0% 1.3%;
+}
+
+.grid .span-right .gameBoard host-zone .hostRoom .leaveBtn img {
+  width: 100%;
+}
+
+.grid .span-right .gameBoard .joinZone {
+  grid-column: span 8 / auto;
+  text-align: center;
+}
+
+.grid .span-right .gameBoard .joinZone h1 {
+  font-size: 3vw;
+  margin: 2%;
+}
+
+.grid .span-right .gameBoard .joinZone .joinRooms {
+  height: 70%;
+}
+
+.grid .span-right .gameBoard .joinZone .joinRooms room-list {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[3];
+      grid-template-columns: repeat(3, 1fr);
+}
+
+.grid .span-right .gameBoard .joinZone .joinRooms room-list .roomZone {
+  margin-top: 20%;
+  grid-column: span 1 / auto;
+}
+
+.grid .span-right .gameBoard .joinZone .joinRooms room-list .roomZone .userInfo {
+  margin: 0 auto;
+  width: 65%;
+}
+
+.grid .span-right .gameBoard .joinZone .joinRooms room-list .roomZone .userInfo h5 {
+  font-size: 1.3vw;
+  float: left;
+  margin: 0;
+}
+
+.grid .span-right .gameBoard .joinZone .joinRooms room-list .roomZone .userInfo em {
+  font-size: 1.1vw;
+  float: right;
+  margin: 0;
+}
+
+.grid .span-right .gameBoard .joinZone .joinRooms room-list .roomZone .userInfo img {
+  width: 100%;
+}
+
+.grid .span-right .gameBoard .joinZone .joinRooms room-list .roomZone .joinBtn {
+  width: 60%;
+  margin: -1vw auto;
+  cursor: pointer;
+}
+
+.grid .span-right .gameBoard .joinZone .joinRooms room-list .roomZone .joinBtn h2 {
+  margin: 0;
+  position: absolute;
+  font-size: 1.3vw;
+  padding: .7% 3.3%;
+}
+
+.grid .span-right .gameBoard .joinZone .joinRooms room-list .roomZone .joinBtn img {
+  width: 100%;
 }
 /*# sourceMappingURL=index.css.map */

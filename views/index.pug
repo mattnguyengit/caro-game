@@ -1,5 +1,5 @@
 doctype html
-html(lang="en" ng-app="index" )
+html(lang="en" ng-app="index")
   head
     title Caro Game
     link(rel="stylesheet", href="/stylesheets/index.css")
@@ -10,7 +10,7 @@ html(lang="en" ng-app="index" )
           .avatarZone
             
           .infoZone
-            h3#username #{user.username}
+            h3 {{user.username}}
         .social(ng-controller="SocialController as social")
           .sidebar(ng-show="social.sidebar")
             .titleSidebar
@@ -19,14 +19,18 @@ html(lang="en" ng-app="index" )
             .messages#messagesZone
               p(ng-repeat="chatMessage in social.chatMessages")
                 message-line
-            .messagesInput
-              form(ng-submit="social.chat()")
-                input.messageType(type="text" ng-model="social.message")
-                input.messageSend(type="submit" value="Send")
+            form.messagesInput(ng-submit="social.chat()")
+              input.messageType(placeholder="Type here" type="text" ng-model="social.message")
+              input.messageSend(type="submit" value="Send")
           .open-btn(ng-hide="social.sidebar")
             img(src="../images/open.png" ng-click="social.showSideBar()")    
-      .span-right
-        .board
+      .span-right(ng-controller="GameController as game")
+        .gameBoard
+          host-zone
+          .joinZone(ng-show="game.isDisplayJoinZone")
+            h1 Join Room
+            .joinRooms
+              room-list
     script(src="../socket.io/socket.io.js")
     script(src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js")
     script(src="/javascripts/index.js")

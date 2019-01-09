@@ -989,3 +989,595 @@
 {"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-03T07:46:38.428Z"}
 {"level":"info","message":"Listen on port 3000","timestamp":"2019-01-03T07:51:56.513Z"}
 {"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-03T07:51:57.578Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-03T20:36:50.951Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-03T20:36:52.019Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-03T22:53:29.234Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-03T22:53:30.793Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-03T22:53:32.576Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-03T22:53:33.980Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-03T22:53:35.049Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-03T22:53:49.939Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-03T22:53:50.977Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-04T00:57:21.993Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-04T00:57:23.320Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-04T00:57:24.358Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-04T04:34:02.867Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-04T04:34:04.195Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-04T04:34:05.235Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-04T04:40:26.796Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-04T04:40:27.856Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-04T04:41:37.727Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-04T04:41:38.795Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-04T04:43:45.505Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-04T04:43:46.569Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-04T14:41:28.298Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-04T14:41:29.829Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-04T14:41:31.057Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-04T14:41:41.992Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-04T14:41:43.063Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-04T20:01:35.729Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-04T20:01:37.070Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-05T06:17:18.178Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-05T06:17:19.512Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-05T06:17:20.613Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-05T06:17:28.082Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-05T06:17:29.152Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-05T06:18:36.587Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-05T06:18:37.648Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-05T12:04:58.545Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-05T13:34:28.729Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-05T13:34:30.019Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-05T13:34:31.065Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-05T15:50:40.620Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-05T15:50:41.985Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-05T15:50:43.043Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-05T15:50:52.654Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-05T15:50:53.695Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-06T09:16:56.270Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-06T09:16:58.695Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-06T09:16:59.757Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-06T09:21:35.679Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-06T09:21:36.764Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-06T10:17:00.165Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-06T10:17:03.931Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-06T10:17:05.196Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-06T10:17:07.737Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-06T10:17:08.779Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-06T11:12:55.565Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-06T11:12:56.634Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-07T02:31:43.459Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-07T02:31:44.807Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-07T02:31:45.878Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-07T03:32:13.311Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-07T04:11:33.028Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-07T04:11:34.096Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-07T04:17:20.259Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-07T04:17:21.321Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-07T04:17:31.593Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-07T04:17:32.660Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-07T04:17:43.543Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-07T04:17:44.604Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-07T05:04:34.914Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-07T05:04:36.630Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-07T05:04:37.707Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-07T05:45:38.270Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-07T05:45:39.577Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-07T05:45:40.628Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-07T06:24:21.788Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-07T06:24:23.328Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-07T06:24:24.383Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-07T07:22:29.824Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-07T07:22:31.034Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-07T07:22:32.097Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-07T07:26:29.380Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-07T07:26:30.724Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-07T07:26:31.784Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-07T07:28:32.392Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-07T07:28:33.471Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-07T07:56:30.366Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-07T07:56:31.445Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-08T01:55:07.678Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-08T01:55:09.066Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-08T01:55:10.125Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-08T01:56:10.999Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-08T01:56:12.063Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-08T02:03:51.364Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-08T02:03:52.397Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-08T02:05:07.701Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-08T02:05:08.781Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-08T02:05:12.406Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-08T02:05:13.470Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-08T02:49:37.084Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-08T02:49:38.164Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-08T04:21:51.350Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-08T04:21:52.712Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-08T04:21:53.765Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-08T04:22:12.948Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-08T04:22:13.996Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-08T04:25:29.436Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-08T04:25:30.491Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-08T04:38:01.493Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-08T04:38:02.541Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-08T04:38:12.120Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-08T04:38:13.176Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-08T04:46:50.056Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-08T04:46:51.534Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-08T04:46:52.583Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-08T04:47:18.213Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-08T04:47:19.296Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-08T04:49:35.037Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-08T04:49:36.116Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-08T04:49:38.414Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-08T04:49:39.477Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-08T04:50:56.027Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-08T04:50:57.091Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-08T04:51:16.753Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-08T04:51:17.838Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-08T04:51:44.564Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-08T04:51:45.632Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-08T04:55:43.292Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-08T04:55:44.355Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-08T04:56:08.665Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-08T04:56:09.729Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-08T04:57:08.031Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-08T04:57:09.088Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-08T04:57:34.085Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-08T04:57:35.548Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-08T04:57:36.610Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-08T04:58:10.305Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-08T04:58:11.357Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-08T05:01:05.068Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-08T05:01:06.123Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T03:51:11.913Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T03:51:13.391Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T03:51:14.467Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T03:53:53.297Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T03:53:54.362Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T03:55:15.966Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T03:55:17.051Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T03:55:34.226Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T03:55:35.292Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T03:59:11.891Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T03:59:12.951Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T03:59:29.003Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T03:59:31.066Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T03:59:32.118Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T03:59:38.687Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T03:59:39.753Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T04:01:16.635Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T04:01:17.700Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T04:01:54.635Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T04:01:55.715Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T04:20:03.370Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T04:20:04.432Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T04:21:09.251Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T04:21:10.331Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T04:26:17.202Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T04:26:18.287Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T04:26:39.718Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T04:26:40.776Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T04:26:54.049Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T04:26:55.119Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T04:27:17.376Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T04:27:18.449Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T04:27:21.728Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T04:27:22.784Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T04:27:29.022Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T04:27:30.097Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T04:27:46.830Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T04:27:47.918Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T04:28:25.615Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T04:28:26.659Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T04:28:46.699Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T04:28:47.785Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T04:29:05.797Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T04:29:06.869Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T04:29:18.923Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T04:29:19.981Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T04:29:38.172Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T04:29:39.257Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T04:30:03.170Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T04:30:04.235Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T04:30:16.060Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T04:30:17.144Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T04:30:44.552Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T04:30:45.640Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T04:31:54.449Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T04:31:55.509Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T04:33:53.530Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T04:33:54.598Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T04:35:08.311Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T04:35:09.359Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T04:35:14.343Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T04:35:15.405Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T04:54:05.541Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T04:54:06.612Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T04:54:45.666Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T04:54:46.738Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T04:54:48.151Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T04:54:49.214Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T04:55:00.639Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T04:55:01.692Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T05:00:07.626Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T05:00:08.706Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T05:00:10.368Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T05:00:11.427Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T05:05:24.642Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T05:05:25.699Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T05:08:22.224Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T05:08:23.290Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T05:08:43.620Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T05:08:44.693Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T05:11:58.947Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T05:12:00.026Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T05:12:20.460Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T05:12:21.526Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T05:13:50.590Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T05:13:51.663Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T05:16:27.412Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T05:16:28.466Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T05:25:35.739Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T05:25:36.791Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T05:28:47.467Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T05:28:48.515Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T05:29:42.238Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T05:29:43.776Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T05:29:44.836Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T05:37:40.299Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T05:37:42.032Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T05:37:43.176Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T05:37:57.063Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T05:37:58.127Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T05:38:00.238Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T05:38:01.297Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T05:38:30.655Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T05:38:31.716Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T05:38:43.339Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T05:38:44.394Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T05:42:54.009Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T05:42:55.069Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T05:43:09.135Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T05:43:10.207Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T05:50:28.251Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T05:50:29.331Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T05:51:43.466Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T05:51:44.535Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T05:51:52.862Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T05:51:53.929Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T05:52:08.399Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T05:52:09.466Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T05:52:19.229Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T05:52:20.483Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T05:57:45.688Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T05:57:46.737Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:07:41.064Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:07:42.117Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:08:17.246Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:08:18.298Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:11:32.697Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:11:33.751Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:12:17.036Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:12:18.109Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:12:35.226Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:12:36.298Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:13:14.072Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:13:15.150Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:13:16.512Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:13:17.583Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:13:56.550Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:13:57.627Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:13:59.200Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:14:00.267Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:14:20.441Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:14:21.499Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:14:53.083Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:14:54.142Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:15:14.213Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:15:15.289Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:18:17.722Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:18:18.769Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:18:52.242Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:18:53.306Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:19:02.207Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:19:03.277Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:19:31.446Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:19:32.514Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:19:55.352Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:19:56.425Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:20:37.864Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:20:38.900Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:20:52.484Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:20:53.567Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:25:30.835Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:25:31.909Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:26:08.704Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:26:09.785Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:27:18.071Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:27:19.128Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:30:02.455Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:30:03.870Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:30:04.932Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:30:28.559Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:30:29.626Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:39:37.196Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:39:38.270Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:40:23.727Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:40:24.784Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:40:49.536Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:40:50.597Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:41:58.404Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:42:00.167Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:42:01.218Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:42:12.521Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:42:13.580Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:42:49.118Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:42:50.179Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:43:17.736Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:43:18.805Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:46:57.905Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:46:58.968Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:47:20.756Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:47:21.814Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:47:24.332Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:47:25.396Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:47:53.942Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:47:55.031Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:47:59.735Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:48:00.807Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:48:05.877Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:48:06.942Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:51:27.166Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:51:28.223Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:51:51.132Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:51:52.190Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:54:59.723Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:55:00.768Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:55:13.144Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:55:14.216Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T06:55:15.934Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T06:55:16.997Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T07:05:21.961Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T07:05:23.015Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T07:06:13.988Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T07:06:15.037Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T07:08:33.240Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T07:08:34.308Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T07:10:46.950Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T07:10:48.018Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T07:11:47.595Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T07:11:48.653Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T07:11:50.950Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T07:11:52.034Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T07:13:45.425Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T07:13:46.489Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T07:15:13.610Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T07:15:14.675Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T07:16:33.879Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T07:16:34.938Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T07:17:10.084Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T07:17:12.304Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T07:17:13.366Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T07:17:22.914Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T07:17:23.988Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T07:17:55.149Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T07:17:56.210Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T07:20:15.892Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T07:20:16.966Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T07:21:44.089Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T07:21:45.162Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T07:42:19.622Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T07:42:21.238Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T07:42:22.286Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T07:48:45.074Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T07:48:46.136Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T07:49:18.219Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T07:49:19.281Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T07:50:04.938Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T07:50:05.994Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T07:51:25.222Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T07:51:26.319Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T07:52:35.902Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T07:52:36.962Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T07:59:13.069Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T07:59:14.129Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:00:46.000Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:00:47.306Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:01:36.069Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:01:37.151Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:02:14.414Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:02:15.463Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:03:35.305Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:03:36.372Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:19:21.912Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:19:22.999Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:21:47.667Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:21:48.733Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:22:00.509Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:22:01.564Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:22:17.811Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:22:18.840Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:26:43.648Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:26:44.714Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:27:37.222Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:27:38.282Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:30:08.519Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:30:09.600Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:31:33.912Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:31:34.979Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:34:49.032Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:34:50.088Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:36:09.100Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:36:10.195Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:36:40.539Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:36:41.617Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:38:20.010Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:38:21.638Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:39:04.726Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:39:05.811Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:40:36.223Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:40:37.470Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:41:04.131Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:41:05.769Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:42:43.415Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:42:45.196Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:42:46.265Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:43:18.230Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:43:19.306Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:43:41.380Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:43:42.463Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:44:24.201Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:44:25.256Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:45:57.265Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:45:58.341Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:47:28.017Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:47:29.085Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:47:44.176Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:47:45.496Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:49:39.945Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:49:41.031Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:50:08.271Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:50:09.351Z"}
+{"message":"Can't set headers after they are sent.","stack":"Error: Can't set headers after they are sent.\n    at validateHeader (_http_outgoing.js:491:11)\n    at ServerResponse.setHeader (_http_outgoing.js:498:3)\n    at ServerResponse.header (E:\\Code\\My_Project\\Pet Project\\CarogameOfficial\\caro-game\\node_modules\\express\\lib\\response.js:767:10)\n    at ServerResponse.send (E:\\Code\\My_Project\\Pet Project\\CarogameOfficial\\caro-game\\node_modules\\express\\lib\\response.js:170:12)\n    at ServerResponse.json (E:\\Code\\My_Project\\Pet Project\\CarogameOfficial\\caro-game\\node_modules\\express\\lib\\response.js:267:15)\n    at ServerResponse.send (E:\\Code\\My_Project\\Pet Project\\CarogameOfficial\\caro-game\\node_modules\\express\\lib\\response.js:158:21)\n    at router.post (E:\\Code\\My_Project\\Pet Project\\CarogameOfficial\\caro-game\\routes\\users.js:32:7)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)","level":"error","timestamp":"2019-01-09T08:50:36.583Z"}
+{"message":"Can't set headers after they are sent.","stack":"Error: Can't set headers after they are sent.\n    at validateHeader (_http_outgoing.js:491:11)\n    at ServerResponse.setHeader (_http_outgoing.js:498:3)\n    at ServerResponse.header (E:\\Code\\My_Project\\Pet Project\\CarogameOfficial\\caro-game\\node_modules\\express\\lib\\response.js:767:10)\n    at ServerResponse.send (E:\\Code\\My_Project\\Pet Project\\CarogameOfficial\\caro-game\\node_modules\\express\\lib\\response.js:170:12)\n    at ServerResponse.json (E:\\Code\\My_Project\\Pet Project\\CarogameOfficial\\caro-game\\node_modules\\express\\lib\\response.js:267:15)\n    at ServerResponse.send (E:\\Code\\My_Project\\Pet Project\\CarogameOfficial\\caro-game\\node_modules\\express\\lib\\response.js:158:21)\n    at router.post (E:\\Code\\My_Project\\Pet Project\\CarogameOfficial\\caro-game\\routes\\users.js:32:7)\n    at <anonymous>\n    at process._tickCallback (internal/process/next_tick.js:188:7)","level":"error","timestamp":"2019-01-09T08:51:07.621Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:51:19.182Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:51:20.281Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:54:18.409Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:54:19.482Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T08:54:42.731Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T08:54:43.796Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T09:00:20.923Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T09:00:21.966Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:06:13.222Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:06:14.649Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:06:15.718Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:06:37.651Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:06:38.716Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:06:48.727Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:06:49.759Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:09:10.040Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:09:11.103Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:12:42.002Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:12:43.072Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:14:29.340Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:14:30.985Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:14:32.047Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:18:32.531Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:18:33.610Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:21:01.387Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:21:02.454Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:21:37.063Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:21:38.131Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:23:15.967Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:23:17.039Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:25:03.061Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:25:04.110Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:25:45.556Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:25:46.627Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:26:20.851Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:26:21.930Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:26:39.151Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:26:40.224Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:27:36.628Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:27:37.706Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:27:59.521Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:28:00.574Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:28:31.915Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:28:32.983Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:29:17.349Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:29:18.528Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:29:33.954Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:29:35.166Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:34:21.177Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:34:22.251Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:35:17.879Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:35:18.956Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:35:26.996Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:35:28.077Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:36:01.002Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:36:02.070Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:36:04.157Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:36:05.223Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:37:51.679Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:37:52.744Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:39:16.953Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:39:18.015Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:40:05.774Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:40:06.845Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:41:22.035Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:41:23.078Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:42:35.771Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:42:36.839Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:42:59.105Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:43:00.175Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:44:38.359Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:44:39.422Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:48:35.245Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:48:36.320Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:50:42.586Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:50:43.648Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:51:23.495Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:51:24.554Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:53:04.353Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:53:05.433Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:53:16.895Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:53:17.980Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:53:45.879Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:53:46.942Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:53:49.355Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:53:50.418Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:53:52.926Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:53:53.986Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:54:35.036Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:54:36.082Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:54:47.964Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:54:49.039Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T13:59:44.455Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T13:59:45.559Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T14:03:03.769Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T14:03:04.857Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T14:04:08.203Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T14:04:09.270Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T14:04:14.621Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T14:04:15.722Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T14:05:12.106Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T14:05:13.180Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T14:06:29.254Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T14:06:30.577Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T14:06:31.660Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T14:06:33.738Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T14:06:34.801Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T14:10:00.982Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T14:10:02.050Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T14:13:27.873Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T14:13:28.942Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T14:14:36.442Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T14:14:37.511Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T14:17:39.222Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T14:17:40.284Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T14:18:00.433Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T14:18:01.496Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T14:19:22.391Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T14:19:23.472Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T14:24:49.303Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T14:24:50.701Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T14:25:32.816Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T14:25:33.902Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T14:25:52.195Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T14:25:53.263Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T14:27:14.815Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T14:27:15.887Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T14:28:07.356Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T14:28:08.431Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T14:31:30.496Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T14:31:31.561Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T14:32:59.113Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T14:33:00.538Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T14:35:36.675Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T14:35:37.743Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T14:35:57.310Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T14:35:58.812Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T14:35:59.866Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T14:38:16.990Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T14:38:18.046Z"}
+{"level":"info","message":"Listen on port 3000","timestamp":"2019-01-09T14:39:23.457Z"}
+{"level":"info","message":"Connected to mongodb://localhost/carogame...","timestamp":"2019-01-09T14:39:24.504Z"}

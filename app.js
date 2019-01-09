@@ -13,16 +13,8 @@ require('./startup/db')();
 require('./startup/routes')(app);
 require('./startup/views')(app);
 require('./startup/resources')(app);
-
-io.on('connection', function(socket) {
-  console.log('a user connected');
-  socket.on('chat message', (data) => {
-    io.emit('chat message', data);
-  })
-  socket.on('disconnect', function(){
-    console.log('user disconnected');
-  });
-})
+require('./sockets/socket')(io);
+require('./sockets/games')(io);
 
 const port = process.env.PORT || 3000;
 const server = http.listen(port, () => winston.info(`Listen on port ${port}`))

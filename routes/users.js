@@ -9,7 +9,12 @@ const router = express.Router();
 
 router.get('/', auth, async (req, res) => {
   const user = await User.findById(req.body._id)
-  res.send(user)
+  res.send(_.pick(user, ['_id', 'username', 'userStats.exp', 'userStats.trophy']))
+})
+
+router.get('/:id', auth, async (req, res) => {
+  const user = await User.findById(req.params.id);
+  res.send(_.pick(user, ['username', 'userStats.exp']))
 })
 
 router.post('/', validator(validate), async (req, res) => {

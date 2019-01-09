@@ -12,8 +12,7 @@ router.get('/signup', async (req, res) => {
 })
 
 router.get('/index', auth, async (req, res) => {
-  const user = await User.findById(req.body._id).select('username friendList userStats.exp userStats.trophy')
-  res.render('index', ({user: user}));
+  res.render('index');
 })
 
 module.exports = router;
