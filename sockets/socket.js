@@ -5,7 +5,7 @@ module.exports = function(io) {
       io.emit('chat message', data);
     })
     socket.on('disconnect', function(){
-      console.log('user disconnected');
+      // console.log('user disconnected');
     });
   })
 }

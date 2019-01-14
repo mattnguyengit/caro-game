@@ -3,7 +3,6 @@ const config = require('config');
 
 module.exports = function (req, res, next) {
   const token = req.header('token') || req.session.token;
-  
   if (!token) return res.status(401).redirect('/games/signin');
 
   try {

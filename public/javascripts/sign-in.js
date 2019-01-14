@@ -15,7 +15,6 @@
       $http.post('/auth', obj)
         .then((res) => {
           this.formData = {};
-          console.log(res)
           $window.location.href = res.data.redirect;
         }, (res) => {
           this.noti = res.data || 'Request failed';
